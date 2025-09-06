@@ -1,7 +1,3 @@
-Aqui está o portfólio completo de Antônio Lisarb Cordeiro Saraiva, incluindo as estatísticas do GitHub:
-
-# Portfólio de Antônio Lisarb Cordeiro Saraiva
-
 ## Introdução
 Bem-vindo ao meu portfólio! Sou Antônio Lisarb Cordeiro Saraiva, um **Desenvolvedor Web** e **UX Designer** comprometido em criar experiências digitais inovadoras e de alto impacto. Minha missão é unir tecnologia e design para proporcionar soluções eficazes e centradas no usuário.
 
@@ -47,13 +43,10 @@ Minhas principais competências incluem:
 🌟 2025: Cursando Frontend e focando em otimização de performance e melhores práticas de desenvolvimento
 ```
 
-## Estatísticas do GitHub
-[Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=0dL1n&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ### Resumo das Estatísticas
 - **Total de Stars Ganhas**: 0
-- **Total de Commits em 2025**: 23
-- **Total de PRs**: 6
+- **Total de Commits em 2025**: 5
+- **Total de PRs**: 2
 - **Total de Issues**: 2
 - **Contribuições (ano passado)**: 0
 
@@ -61,5 +54,3 @@ Minhas principais competências incluem:
 Estou aberto a novas oportunidades e colaborações. Se você deseja discutir projetos, trocar ideias ou explorar como posso contribuir para sua equipe, entre em contato!
 
 ---
-
-Se precisar de mais ajustes ou detalhes, estou à disposição!
